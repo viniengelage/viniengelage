@@ -1,7 +1,7 @@
 ### Hi there!
 
-- 🔭 I’m currently working on PoupaBit
-- 🌱 I’m currently learning Typescript and React Native
+- 🔭 I’m currently working with ReactNative and NextJS
+- 🌱 I’m currently learning micro front-end
 - 📫 How to reach me: viniciosvalensuela@gmail.com
 
 <div align="center">
