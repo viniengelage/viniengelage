@@ -1,6 +1,6 @@
 ### Hi there!
 
-- 🔭 I’m currently working with ReactNative and NextJS
+- 🔭 I’m currently working with ReactJS and NextJS
 - 🌱 I’m currently learning micro front-end
 - 📫 How to reach me: viniciosvalensuela@gmail.com
 
