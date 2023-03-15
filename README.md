@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with ReactJS and NextJS
 - 🌱 I’m currently learning micro front-end
-- 📫 How to reach me: viniciosvalensuela@gmail.com
+- 📫 How to reach me: contato@viniengelage.com
 
 <div align="center">
   <a href="https://github.com/viniengelage">
